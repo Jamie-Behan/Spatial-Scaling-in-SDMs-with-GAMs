@@ -32,3 +32,6 @@ A description of each file includes:
       
  I cannot share the ME-NH Inshore Trawl Survey data as it is not open source and must be requested by the Maine Department of Marine Resources.
  Hoewever, If you have any questions, feel free to reach out to me at jamie.behan@maine.edu
+ 
+ More information about this project can be found in: 
+ Behan, J., Li, B., Chen, Y. (in internal review). Examining Scale Dependent Environmental Effects on American Lobster (Homarus americanus) Spatial Distribution in a Changing Gulf of     Maine. Frontiers in Marine Science.
