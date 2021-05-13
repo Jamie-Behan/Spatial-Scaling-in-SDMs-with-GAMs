@@ -1,0 +1,1 @@
+# Spatial-Scaling-in-SDMs-with-GAMs
